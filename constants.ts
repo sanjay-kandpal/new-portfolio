@@ -258,7 +258,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     subtitle:
       "Contributed to Server driven UI framework for powering experiences @ Flipkart Wholesale 😎",
     image: "/timeline/flipkart.svg",
-    slideImage: "/timeline/flipkart.gif",
+    slideImage: "/timeline/leetcode_progress.gif",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
