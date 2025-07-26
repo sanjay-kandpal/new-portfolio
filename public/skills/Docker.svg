@@ -1,0 +1,32 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue background -->
+  <circle cx="24" cy="24" r="24" fill="#2496ED"/>
+  
+  <!-- Docker whale with containers -->
+  <g>
+    <!-- Container boxes with gaps -->
+    <g fill="white" stroke="#2496ED" stroke-width="0.5">
+      <!-- Row 1 - 1 container -->
+      <rect x="21" y="11" width="4.5" height="4.5"/>
+      
+      <!-- Row 2 - 3 containers -->
+      <rect x="16" y="16" width="4.5" height="4.5"/>
+      <rect x="21" y="16" width="4.5" height="4.5"/>
+      <rect x="26" y="16" width="4.5" height="4.5"/>
+      
+      <!-- Row 3 - 5 containers -->
+      <rect x="11" y="21" width="4.5" height="4.5"/>
+      <rect x="16" y="21" width="4.5" height="4.5"/>
+      <rect x="21" y="21" width="4.5" height="4.5"/>
+      <rect x="26" y="21" width="4.5" height="4.5"/>
+      <rect x="31" y="21" width="4.5" height="4.5"/>
+    </g>
+    
+    <!-- Whale shape -->
+    <path d="M 9 27 C 9 26 10 26 11 26 L 37 26 C 39 26 41 27 41 29 C 41 31 40 32 39 33 C 38 34 36 35 34 35 L 14 35 C 11 35 9 33 9 30 Z" 
+          fill="white"/>
+    
+    <!-- Eye -->
+    <circle cx="35" cy="29" r="1" fill="#2496ED"/>
+  </g>
+</svg>

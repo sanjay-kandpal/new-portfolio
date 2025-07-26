@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="48" height="48" rx="10" fill="#FF6C37"/>
+  
+  <!-- Postman rocket/spaceship shape -->
+  <g transform="translate(24, 24)">
+    <!-- Main rocket body -->
+    <path d="M 0 -12 Q -6 -8 -6 0 Q -6 8 0 12 Q 6 8 6 0 Q 6 -8 0 -12 Z" fill="white"/>
+    
+    <!-- Rocket window -->
+    <circle cx="0" cy="-4" r="3" fill="#FF6C37"/>
+    
+    <!-- Rocket fins -->
+    <path d="M -6 2 L -10 8 L -6 8 Z" fill="white"/>
+    <path d="M 6 2 L 10 8 L 6 8 Z" fill="white"/>
+    
+    <!-- Exhaust flame -->
+    <path d="M -3 12 L 0 16 L 3 12 Z" fill="white" opacity="0.7"/>
+  </g>
+</svg>

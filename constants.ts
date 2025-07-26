@@ -187,8 +187,8 @@ export const SKILLS = {
     "html",
     "css",
   ],
-  userInterface: ["figma", "sketch", "illustrator", "photoshop"],
-  other: ["git", "webpack", "gulp", "lightroom", "aftereffects"],
+  backend: ["ExpressJs", "Flask"],
+  other: ["git", "postman", "gulp", "Docker", "Cursor"],
 };
 
 export enum Branch {
