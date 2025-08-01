@@ -438,6 +438,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CONVERGE,
+
   },
   {
     type: NodeTypes.CHECKPOINT,
@@ -448,30 +449,30 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "UI/UX, Frontend Engineer",
+    title: "Pirated Ninja",
     size: ItemSize.SMALL,
     subtitle:
-      "Started journey in SDC-SI, where I learnt the fundamentals of Frontend, UI/UX, Graphic design and more...",
-    image: "/timeline/si.svg",
-    slideImage: "/timeline/si-start.jpg",
+      "Started journey in Coding Ninjas, Understack Mern Full stack to keep up with real world",
+    image: "/timeline/coding_ninjas.svg",
+    slideImage: "/timeline/si-start.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "2014",
+    title: "2022",
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.LEFT,
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Recognized Themer",
+    title: "Learn Java,Hated C++",
     size: ItemSize.SMALL,
     subtitle:
-      "Awarded as recognized themer,  Developed themes and ROMs for Xperia 2011 devices lineup with over 15k+ downloads. Featured on xda portal twice.",
-    image: "/timeline/xda.svg",
-    slideImage: "/timeline/xda-rt.jpg",
+      "started understanding java, and do someproblem solving in codechef around 100 question ",
+    image: "/timeline/java.svg",
+    slideImage: "/timeline/codechef.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
