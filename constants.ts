@@ -349,10 +349,10 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Student lead at SDC-SI",
+    title: "Internship full stack",
     size: ItemSize.SMALL,
     subtitle:
-      "Represented a team of 39 talented developers. Served different roles of leadership, project management and delivery.",
+      "Started a new journey a corporate journey React(Typescript) + FastAPI.",
     image: "/timeline/si.svg",
     slideImage: "/timeline/si-head.jpg",
     shouldDrawLine: true,
@@ -360,63 +360,53 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Lecture on SVG animations",
+    title: "React Native Worst Experience",
     size: ItemSize.SMALL,
     subtitle:
-      "Guided 200 students to create their first animated SVG using CSS/SMIL at PHP Workshop, SDC-SI",
+      "A vibe coding Microservice (Read book,Notification, Walk-Count) Project",
 
-    slideImage: "/timeline/svg-lecture.jpg",
+    slideImage: "/timeline/native.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
 
   {
     type: NodeTypes.CHECKPOINT,
-    title: "2017",
+    title: "2025",
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.RIGHT,
   },
-  {
-    type: NodeTypes.CHECKPOINT,
-    title: "1st position in Web Designing, IMSU",
-    size: ItemSize.SMALL,
-    subtitle:
-      "Competed against 20+ teams for design and development of web project from scratch",
-    slideImage: "/timeline/ims-17.jpg",
-    shouldDrawLine: true,
-    alignment: Branch.RIGHT,
-  },
 
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Lecture on Javascript",
+    title: "Vibe Coding Rocks",
     size: ItemSize.SMALL,
     subtitle:
-      "Guided 200 students for javascript fundamentals at Game Development workshop, SDC-SI",
-    slideImage: "/timeline/js-17.jpg",
+      "Build hosted in 2 DAYS food Application",
+    slideImage: "/timeline/food.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
 
   {
     type: NodeTypes.CHECKPOINT,
-    title: "1st position in Web Design, ABES ACM",
+    title: "Microservice v/s Monolithic",
     size: ItemSize.SMALL,
     subtitle:
-      "Competed in web and graphic design challenge with 100+ participants.",
-    slideImage: "/timeline/abes-17.jpg",
+      "Learned Microservice build a project to end debate who is better",
+    slideImage: "/timeline/micro-mono.png",
     shouldDrawLine: true,
     alignment: Branch.RIGHT,
   },
 
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Lecture on Web Technologies",
+    title: "Worked on different technologies python flask, steamlit,aws",
     size: ItemSize.SMALL,
     subtitle:
-      "Guided 300+ students on getting started with web technologies like HTML/CSS and JS",
-    slideImage: "/timeline/web-17.jpg",
+      "From implementing to them to visualisation to the deployed stage",
+    slideImage: "/timeline/something-new.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
